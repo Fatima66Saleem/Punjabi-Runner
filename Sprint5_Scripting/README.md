@@ -1,5 +1,5 @@
 # Sprint 5 - Scripting
-Date: June 18, 2026
+Date: June 19, 2026
 
 ## Changes Made:
 - DeathMenu.cs: Score text changed to "Tuhada Score: "

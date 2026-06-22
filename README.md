@@ -120,8 +120,8 @@ Punjabi-Runner/
 | Sprint 2 | June 16, 2026 | Texturing | ✅ Complete |
 | Sprint 3 | June 17, 2026 | Importing | ✅ Complete |
 | Sprint 4 | June 18, 2026 | Level Design | ✅ Complete |
-| Sprint 5 | June 18, 2026 | Scripting | ✅ Complete |
-| Sprint 6 | June 19, 2026 | Rendering | ✅ Complete |
+| Sprint 5 | June 19, 2026 | Scripting | ✅ Complete |
+| Sprint 6 | June 20, 2026 | Rendering | ✅ Complete |
 
 ---
 
